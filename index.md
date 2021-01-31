@@ -14,6 +14,10 @@ import numpy as np
 Numpy makes mathemtical processes, like addition, very simple and easy to do. Below is the Python code for adding 2 and 7 in Numpy
 
 ```
-our_result = np.add(2,7)
-our_result
+np.add(2,7)
 ```
+
+
+## Thanks
+
+Thanks for checking out the very early stages of my website. For more information on Numpy I recommend checking out the [Numpy](https://numpy.org/) webpage. 
